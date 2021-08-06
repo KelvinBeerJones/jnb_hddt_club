@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-08-06">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Ad Eundem" label="Ad Eundem" />
+      <node id="Albemarle Burlington Club" label="Albemarle Burlington Club" />
+      <node id="Albert Club" label="Albert Club" />
+      <node id="Albert Fytche" label="Albert Fytche" />
+      <node id="Alexander Cunningham" label="Alexander Cunningham" />
+      <node id="Alexander Morison" label="Alexander Morison" />
+      <node id="Alfred Barton" label="Alfred Barton" />
+      <node id="Alfred Club" label="Alfred Club" />
+      <node id="Alfred Higgins" label="Alfred Higgins" />
+      <node id="Algernon Charles Swinburne" label="Algernon Charles Swinburne" />
+      <node id="Algernon Joy" label="Algernon Joy" />
+      <node id="Alpine Club" label="Alpine Club" />
+      <node id="Andrew Black" label="Andrew Black" />
+      <node id="Andrew Lang" label="Andrew Lang" />
+      <node id="Andrew Scott Waugh" label="Andrew Scott Waugh" />
+      <node id="Andrew Smith" label="Andrew Smith" />
+      <node id="Archibald Hamilton" label="Archibald Hamilton" />
+      <node id="Army &amp; Navy Club" label="Army &amp; Navy Club" />
+      <node id="Arthur Chilver Tupper" label="Arthur Chilver Tupper" />
+      <node id="Arthur Giles Puller" label="Arthur Giles Puller" />
+      <node id="Arthur Mitchell" label="Arthur Mitchell" />
+      <node id="Arthur Phayre" label="Arthur Phayre" />
+      <node id="Arthurs Club" label="Arthurs Club" />
+      <node id="Arts Club" label="Arts Club" />
+      <node id="Arundel Club" label="Arundel Club" />
+      <node id="Ashton Yates" label="Ashton Yates" />
+      <node id="Athenaeum Club" label="Athenaeum Club" />
+      <node id="Augustus Goldsmid" label="Augustus Goldsmid" />
+      <node id="Augustus Henry Lane Fox later Pitt Rivers" label="Augustus Henry Lane Fox later Pitt Rivers" />
+      <node id="Augustus Wollaston Franks" label="Augustus Wollaston Franks" />
+      <node id="Austen Henry Layard" label="Austen Henry Layard" />
+      <node id="Bath and County Club" label="Bath and County Club" />
+      <node id="Benjamin Bond Cabbell" label="Benjamin Bond Cabbell" />
+      <node id="Benjamin Collins Brodie" label="Benjamin Collins Brodie" />
+      <node id="Beriah Botfield" label="Beriah Botfield" />
+      <node id="Bernard Edward Brodhurst" label="Bernard Edward Brodhurst" />
+      <node id="Berwickshire Naturalists Field Club" label="Berwickshire Naturalists Field Club" />
+      <node id="Brasenose Club" label="Brasenose Club" />
+      <node id="Brookes Club" label="Brookes Club" />
+      <node id="C H Pearson" label="C H Pearson" />
+      <node id="Caledonian Club" label="Caledonian Club" />
+      <node id="Cannibal Club" label="Cannibal Club" />
+      <node id="Carlton Club" label="Carlton Club" />
+      <node id="Century Club" label="Century Club" />
+      <node id="Charles Bennett" label="Charles Bennett" />
+      <node id="Charles Booth" label="Charles Booth" />
+      <node id="Charles Cardale Babington" label="Charles Cardale Babington" />
+      <node id="Charles Darwin" label="Charles Darwin" />
+      <node id="Charles Duncan Cameron" label="Charles Duncan Cameron" />
+      <node id="Charles Edward Grey" label="Charles Edward Grey" />
+      <node id="Charles Harcourt Chambers" label="Charles Harcourt Chambers" />
+      <node id="Charles Henry Gatty" label="Charles Henry Gatty" />
+      <node id="Charles Holt Bracebridge" label="Charles Holt Bracebridge" />
+      <node id="Charles Jeremiah Renshaw" label="Charles Jeremiah Renshaw" />
+      <node id="Charles Lyell" label="Charles Lyell" />
+      <node id="Charles Malcolm" label="Charles Malcolm" />
+      <node id="Charles Nicholson" label="Charles Nicholson" />
+      <node id="Charles Pyndar Beauchamp Walker" label="Charles Pyndar Beauchamp Walker" />
+      <node id="Charles Ratcliff" label="Charles Ratcliff" />
+      <node id="Charles Reade" label="Charles Reade" />
+      <node id="Clements Robert Markham" label="Clements Robert Markham" />
+      <node id="Colquehoun Club" label="Colquehoun Club" />
+      <node id="Connop Thirlwall" label="Connop Thirlwall" />
+      <node id="Conservative Club" label="Conservative Club" />
+      <node id="Daniel Brooke Robertson" label="Daniel Brooke Robertson" />
+      <node id="David Duncan" label="David Duncan" />
+      <node id="David Salomons" label="David Salomons" />
+      <node id="Douglas Galton" label="Douglas Galton" />
+      <node id="Dunbar Isidore Heath" label="Dunbar Isidore Heath" />
+      <node id="East India Club" label="East India Club" />
+      <node id="East India United Services Club" label="East India United Services Club" />
+      <node id="Edouard J Villin" label="Edouard J Villin" />
+      <node id="Edward (1) Lawrence" label="Edward (1) Lawrence" />
+      <node id="Edward Barrett Hodges Curteis" label="Edward Barrett Hodges Curteis" />
+      <node id="Edward Bellamy" label="Edward Bellamy" />
+      <node id="Edward Charlesworth" label="Edward Charlesworth" />
+      <node id="Edward Meryon" label="Edward Meryon" />
+      <node id="Edward Ryan" label="Edward Ryan" />
+      <node id="Edward Thurlow" label="Edward Thurlow" />
+      <node id="Edward William Brabrook" label="Edward William Brabrook" />
+      <node id="Edwin Chadwick" label="Edwin Chadwick" />
+      <node id="Erasmus (Ras) Darwin" label="Erasmus (Ras) Darwin" />
+      <node id="Erskine Perry" label="Erskine Perry" />
+      <node id="Essex Field Club" label="Essex Field Club" />
+      <node id="F H Janson" label="F H Janson" />
+      <node id="Francis Egerton" label="Francis Egerton" />
+      <node id="Francis Galton" label="Francis Galton" />
+      <node id="Francis Ignatio Rickard" label="Francis Ignatio Rickard" />
+      <node id="Frederick A B Crawfurd" label="Frederick A B Crawfurd" />
+      <node id="Frederick Augustus Haserick" label="Frederick Augustus Haserick" />
+      <node id="Frederick Butler Montgomerie" label="Frederick Butler Montgomerie" />
+      <node id="Frederick Chatfield" label="Frederick Chatfield" />
+      <node id="Frederick Ouvry" label="Frederick Ouvry" />
+      <node id="Frederick Whittock Darby" label="Frederick Whittock Darby" />
+      <node id="Frederick William Rudler" label="Frederick William Rudler" />
+      <node id="G C Rankin" label="G C Rankin" />
+      <node id="Garrick Club" label="Garrick Club" />
+      <node id="George (1) Campbell" label="George (1) Campbell" />
+      <node id="George Balfour" label="George Balfour" />
+      <node id="George Bellas Greenough" label="George Bellas Greenough" />
+      <node id="George Bonham" label="George Bonham" />
+      <node id="George Busk" label="George Busk" />
+      <node id="George Denman" label="George Denman" />
+      <node id="George Dennis" label="George Dennis" />
+      <node id="George Grey" label="George Grey" />
+      <node id="George H Pope" label="George H Pope" />
+      <node id="George Macleay" label="George Macleay" />
+      <node id="George Peacocke" label="George Peacocke" />
+      <node id="George Rolleston" label="George Rolleston" />
+      <node id="George Tate" label="George Tate" />
+      <node id="George Webbe Dasent" label="George Webbe Dasent" />
+      <node id="George William Marshall" label="George William Marshall" />
+      <node id="Glasgow Art Club" label="Glasgow Art Club" />
+      <node id="Grafton Club" label="Grafton Club" />
+      <node id="Guards Club" label="Guards Club" />
+      <node id="Gustav Oppert" label="Gustav Oppert" />
+      <node id="H  Victor Martin" label="H  Victor Martin" />
+      <node id="H G Gridley" label="H G Gridley" />
+      <node id="H K Twyford" label="H K Twyford" />
+      <node id="Harry Parkes" label="Harry Parkes" />
+      <node id="Henry (the son) Jackson" label="Henry (the son) Jackson" />
+      <node id="Henry Danby Seymour" label="Henry Danby Seymour" />
+      <node id="Henry Drummond Wolff" label="Henry Drummond Wolff" />
+      <node id="Henry F Mills" label="Henry F Mills" />
+      <node id="Henry Hallam" label="Henry Hallam" />
+      <node id="Henry Hoyle Howorth" label="Henry Hoyle Howorth" />
+      <node id="Henry Matthews" label="Henry Matthews" />
+      <node id="Henry Rawlinson" label="Henry Rawlinson" />
+      <node id="Henry Reginald Moore" label="Henry Reginald Moore" />
+      <node id="Henry Walter Bellew" label="Henry Walter Bellew" />
+      <node id="Hugh J C Beavan" label="Hugh J C Beavan" />
+      <node id="Hugh R Semper" label="Hugh R Semper" />
+      <node id="Humfrey Sandwith" label="Humfrey Sandwith" />
+      <node id="Indian Club" label="Indian Club" />
+      <node id="J  Beete Jukes" label="J  Beete Jukes" />
+      <node id="J  Charlton Parr" label="J  Charlton Parr" />
+      <node id="J  Dyce Nicol" label="J  Dyce Nicol" />
+      <node id="J  S  Stuart Glennie" label="J  S  Stuart Glennie" />
+      <node id="J J Sylvester" label="J J Sylvester" />
+      <node id="J Monro" label="J Monro" />
+      <node id="J Muir" label="J Muir" />
+      <node id="James Bain" label="James Bain" />
+      <node id="James Brebner" label="James Brebner" />
+      <node id="James Brooke" label="James Brooke" />
+      <node id="James Clark" label="James Clark" />
+      <node id="James Cotter Morison" label="James Cotter Morison" />
+      <node id="James Emerson Tennent" label="James Emerson Tennent" />
+      <node id="James Heywood" label="James Heywood" />
+      <node id="James Hunt" label="James Hunt" />
+      <node id="James Kay Shuttleworth" label="James Kay Shuttleworth" />
+      <node id="James Talbot de Malahide" label="James Talbot de Malahide" />
+      <node id="James Walker" label="James Walker" />
+      <node id="James Wentworth Buller" label="James Wentworth Buller" />
+      <node id="James Whishaw" label="James Whishaw" />
+      <node id="Jennings Holgate" label="Jennings Holgate" />
+      <node id="John (1) Cleghorn" label="John (1) Cleghorn" />
+      <node id="John Benn Ormathwaite" label="John Benn Ormathwaite" />
+      <node id="John Bennett" label="John Bennett" />
+      <node id="John Bowring" label="John Bowring" />
+      <node id="John Briggs" label="John Briggs" />
+      <node id="John Conolly" label="John Conolly" />
+      <node id="John Crawfurd" label="John Crawfurd" />
+      <node id="John E Erichsen" label="John E Erichsen" />
+      <node id="John E Harvey" label="John E Harvey" />
+      <node id="John Evans" label="John Evans" />
+      <node id="John Fletcher Owen" label="John Fletcher Owen" />
+      <node id="John Frederick Collingwood" label="John Frederick Collingwood" />
+      <node id="John Frederick McNair" label="John Frederick McNair" />
+      <node id="John Gardiner" label="John Gardiner" />
+      <node id="John George Taylor" label="John George Taylor" />
+      <node id="John Gould" label="John Gould" />
+      <node id="John Grover" label="John Grover" />
+      <node id="John Henry Challis" label="John Henry Challis" />
+      <node id="John Henry Gurney" label="John Henry Gurney" />
+      <node id="John Jun Dickinson" label="John Jun Dickinson" />
+      <node id="John Langdon H Down" label="John Langdon H Down" />
+      <node id="John Lee (2)" label="John Lee (2)" />
+      <node id="John Lubbock" label="John Lubbock" />
+      <node id="John Marmaduke Stourton" label="John Marmaduke Stourton" />
+      <node id="John Mason Hepworth" label="John Mason Hepworth" />
+      <node id="John Murray" label="John Murray" />
+      <node id="John Peter Gassiot" label="John Peter Gassiot" />
+      <node id="John Ramsay" label="John Ramsay" />
+      <node id="John S Mayson" label="John S Mayson" />
+      <node id="John Stanley" label="John Stanley" />
+      <node id="John Tennant" label="John Tennant" />
+      <node id="John Ussher" label="John Ussher" />
+      <node id="John jun Dickinson" label="John jun Dickinson" />
+      <node id="Johnson Club" label="Johnson Club" />
+      <node id="Joseph Hooker" label="Joseph Hooker" />
+      <node id="Joseph Lister" label="Joseph Lister" />
+      <node id="Joseph Norman Lockyer" label="Joseph Norman Lockyer" />
+      <node id="Joseph Prestwich" label="Joseph Prestwich" />
+      <node id="Junior Athenaeum Club" label="Junior Athenaeum Club" />
+      <node id="Junior Carlton Club" label="Junior Carlton Club" />
+      <node id="Junior Garrick Club" label="Junior Garrick Club" />
+      <node id="Junior United Service Club" label="Junior United Service Club" />
+      <node id="Justin Shiel" label="Justin Shiel" />
+      <node id="Kenneth Robert Henderson Mackenzie" label="Kenneth Robert Henderson Mackenzie" />
+      <node id="Kirkman Daniel Hodgson" label="Kirkman Daniel Hodgson" />
+      <node id="Laurence Oliphant" label="Laurence Oliphant" />
+      <node id="Le Grand Jacob" label="Le Grand Jacob" />
+      <node id="Lestock Robert Reid" label="Lestock Robert Reid" />
+      <node id="Lindsay Brine" label="Lindsay Brine" />
+      <node id="Louis Lucien Bonaparte" label="Louis Lucien Bonaparte" />
+      <node id="Luke Owen Pike" label="Luke Owen Pike" />
+      <node id="Luke Smyth O'Connor" label="Luke Smyth O'Connor" />
+      <node id="M Foster" label="M Foster" />
+      <node id="Madras Club, Madras" label="Madras Club, Madras" />
+      <node id="Manchester Club" label="Manchester Club" />
+      <node id="Manchester Literary Club" label="Manchester Literary Club" />
+      <node id="Marlborough Club" label="Marlborough Club" />
+      <node id="Matthew Henry Marsh" label="Matthew Henry Marsh" />
+      <node id="Mountstuart Elphinstone" label="Mountstuart Elphinstone" />
+      <node id="National Club" label="National Club" />
+      <node id="Nationalist Club" label="Nationalist Club" />
+      <node id="Naval and Military Club" label="Naval and Military Club" />
+      <node id="New Athenaeum Club" label="New Athenaeum Club" />
+      <node id="New Club, Edinburgh" label="New Club, Edinburgh" />
+      <node id="New Reform Club" label="New Reform Club" />
+      <node id="New Spalding Club" label="New Spalding Club" />
+      <node id="New University Club" label="New University Club" />
+      <node id="Newbury and District Field Club" label="Newbury and District Field Club" />
+      <node id="Oriental Club" label="Oriental Club" />
+      <node id="Oswald John Crawfurd" label="Oswald John Crawfurd" />
+      <node id="P B Brodie" label="P B Brodie" />
+      <node id="P O'Callaghan" label="P O'Callaghan" />
+      <node id="Peter Benson Maxwell" label="Peter Benson Maxwell" />
+      <node id="Peter Martin Duncan" label="Peter Martin Duncan" />
+      <node id="Ranelagh Club" label="Ranelagh Club" />
+      <node id="Reform Club" label="Reform Club" />
+      <node id="Richard Biddulph Martin" label="Richard Biddulph Martin" />
+      <node id="Richard Cavendish" label="Richard Cavendish" />
+      <node id="Richard Edward Arden" label="Richard Edward Arden" />
+      <node id="Richard Owen" label="Richard Owen" />
+      <node id="Richard Temple" label="Richard Temple" />
+      <node id="Richard Wellesley Rothman" label="Richard Wellesley Rothman" />
+      <node id="Robert Crawford" label="Robert Crawford" />
+      <node id="Robert Fitzroy" label="Robert Fitzroy" />
+      <node id="Robert Gordon Latham" label="Robert Gordon Latham" />
+      <node id="Robert Liveing" label="Robert Liveing" />
+      <node id="Robert Nicholas Fowler" label="Robert Nicholas Fowler" />
+      <node id="Robert Sidney Stone" label="Robert Sidney Stone" />
+      <node id="Robert Tait" label="Robert Tait" />
+      <node id="Roderick Impey Murchison" label="Roderick Impey Murchison" />
+      <node id="Rowland Hamilton" label="Rowland Hamilton" />
+      <node id="Royal Albert Yacht Club" label="Royal Albert Yacht Club" />
+      <node id="Royal Societies Club" label="Royal Societies Club" />
+      <node id="Royal Victoria Yacht Club" label="Royal Victoria Yacht Club" />
+      <node id="Rutherford Alcock" label="Rutherford Alcock" />
+      <node id="S  Edwin Collingwood" label="S  Edwin Collingwood" />
+      <node id="S F Simonson" label="S F Simonson" />
+      <node id="S W D Williams" label="S W D Williams" />
+      <node id="Samuel C Baker" label="Samuel C Baker" />
+      <node id="Samuel Cartwright" label="Samuel Cartwright" />
+      <node id="Samuel Duckworth" label="Samuel Duckworth" />
+      <node id="Samuel Reynolds Solly" label="Samuel Reynolds Solly" />
+      <node id="Savile Club" label="Savile Club" />
+      <node id="Science Club" label="Science Club" />
+      <node id="Sesame Club" label="Sesame Club" />
+      <node id="Sherard Osborn" label="Sherard Osborn" />
+      <node id="Silas Palmer" label="Silas Palmer" />
+      <node id="Spalding Club" label="Spalding Club" />
+      <node id="Spencer St John" label="Spencer St John" />
+      <node id="Stephen Henry Ward" label="Stephen Henry Ward" />
+      <node id="Sugar Club" label="Sugar Club" />
+      <node id="Sydney Edward Bouverie Bouverie-Pusey" label="Sydney Edward Bouverie Bouverie-Pusey" />
+      <node id="Sydney L Blanchard" label="Sydney L Blanchard" />
+      <node id="T  George Bonney" label="T  George Bonney" />
+      <node id="T A Blakely" label="T A Blakely" />
+      <node id="Tennis Court Club, Leamington" label="Tennis Court Club, Leamington" />
+      <node id="Thatched House Club" label="Thatched House Club" />
+      <node id="Thomas B Gascoyne" label="Thomas B Gascoyne" />
+      <node id="Thomas Bendyshe" label="Thomas Bendyshe" />
+      <node id="Thomas Edward Colebrooke" label="Thomas Edward Colebrooke" />
+      <node id="Thomas Francis Wade" label="Thomas Francis Wade" />
+      <node id="Thomas Henry Huxley" label="Thomas Henry Huxley" />
+      <node id="Thomas Josiah Laing" label="Thomas Josiah Laing" />
+      <node id="Thomas McKenny Hughes" label="Thomas McKenny Hughes" />
+      <node id="Thomas Prendergast" label="Thomas Prendergast" />
+      <node id="Thomas Squire Barrett" label="Thomas Squire Barrett" />
+      <node id="Thomas Taylor Meadows" label="Thomas Taylor Meadows" />
+      <node id="Traveller's Club" label="Traveller's Club" />
+      <node id="Union Club" label="Union Club" />
+      <node id="United Service Club" label="United Service Club" />
+      <node id="United University Club" label="United University Club" />
+      <node id="Vicat Cole" label="Vicat Cole" />
+      <node id="W  Walbank Sanderson" label="W  Walbank Sanderson" />
+      <node id="W Coulson" label="W Coulson" />
+      <node id="W E Buckley" label="W E Buckley" />
+      <node id="W H Read" label="W H Read" />
+      <node id="Walter ('Badgett') Bagehot" label="Walter ('Badgett') Bagehot" />
+      <node id="Walter F Dawson" label="Walter F Dawson" />
+      <node id="Walter Gregor" label="Walter Gregor" />
+      <node id="Walter Morrison" label="Walter Morrison" />
+      <node id="West Kent Cricket Club" label="West Kent Cricket Club" />
+      <node id="Whittington Club" label="Whittington Club" />
+      <node id="William (1) Adams" label="William (1) Adams" />
+      <node id="William Abraham Bell" label="William Abraham Bell" />
+      <node id="William Aloysius Clavering" label="William Aloysius Clavering" />
+      <node id="William Amhurst Tyssen Amhurst" label="William Amhurst Tyssen Amhurst" />
+      <node id="William Arbuthnot" label="William Arbuthnot" />
+      <node id="William Armstrong" label="William Armstrong" />
+      <node id="William Boxall" label="William Boxall" />
+      <node id="William Boyd Dawkins" label="William Boyd Dawkins" />
+      <node id="William Clay" label="William Clay" />
+      <node id="William Duckworth" label="William Duckworth" />
+      <node id="William Elphinstone Malcolm" label="William Elphinstone Malcolm" />
+      <node id="William Erle" label="William Erle" />
+      <node id="William Ewart" label="William Ewart" />
+      <node id="William Fairbairn" label="William Fairbairn" />
+      <node id="William H Garrett" label="William H Garrett" />
+      <node id="William Henry Ashurst" label="William Henry Ashurst" />
+      <node id="William Henry Mitchell" label="William Henry Mitchell" />
+      <node id="William Henry Wesley" label="William Henry Wesley" />
+      <node id="William Jardine" label="William Jardine" />
+      <node id="William Lawrence" label="William Lawrence" />
+      <node id="William Longman" label="William Longman" />
+      <node id="William M Ord" label="William M Ord" />
+      <node id="William Rathbone Greg" label="William Rathbone Greg" />
+      <node id="William Sandys Wright Vaux" label="William Sandys Wright Vaux" />
+      <node id="William Smith Windham" label="William Smith Windham" />
+      <node id="William Spottiswoode" label="William Spottiswoode" />
+      <node id="William Stephen Mitchell" label="William Stephen Mitchell" />
+      <node id="William Tooke" label="William Tooke" />
+      <node id="William Vernon Guise" label="William Vernon Guise" />
+      <node id="William White La Barte" label="William White La Barte" />
+      <node id="William Wilson Hunter" label="William Wilson Hunter" />
+      <node id="William Winwood Reade" label="William Winwood Reade" />
+      <node id="Woolhope Naturalists Field Club" label="Woolhope Naturalists Field Club" />
+      <node id="Wyndham Club" label="Wyndham Club" />
+      <node id="X Club" label="X Club" />
+      <node id="x Brown-Sequard" label="x Brown-Sequard" />
+      <node id="x Clarendon" label="x Clarendon" />
+      <node id="x Colonsay" label="x Colonsay" />
+      <node id="x Devonshire" label="x Devonshire" />
+      <node id="x Freme" label="x Freme" />
+      <node id="x Houghton" label="x Houghton" />
+      <node id="x Lefroy" label="x Lefroy" />
+      <node id="x Richards" label="x Richards" />
+      <node id="x Ripon, De Grey and" label="x Ripon, De Grey and" />
+      <node id="x Strangford" label="x Strangford" />
+      <node id="x Stuart" label="x Stuart" />
+    </nodes>
+    <edges>
+      <edge source="Albemarle Burlington Club" target="John Evans" id="0" />
+      <edge source="Albert Fytche" target="Reform Club" id="1" />
+      <edge source="Alexander Cunningham" target="Athenaeum Club" id="2" />
+      <edge source="Alexander Morison" target="Athenaeum Club" id="3" />
+      <edge source="Alfred Barton" target="Oriental Club" id="4" />
+      <edge source="Alfred Club" target="Henry Danby Seymour" id="5" />
+      <edge source="Alfred Higgins" target="Cannibal Club" id="6" />
+      <edge source="Algernon Charles Swinburne" target="Cannibal Club" id="7" />
+      <edge source="Algernon Joy" target="Athenaeum Club" id="8" />
+      <edge source="Algernon Joy" target="Junior United Service Club" id="9" />
+      <edge source="Alpine Club" target="Francis Galton" id="10" />
+      <edge source="Alpine Club" target="William Longman" id="11" />
+      <edge source="Andrew Black" target="Glasgow Art Club" id="12" />
+      <edge source="Andrew Lang" target="Athenaeum Club" id="13" />
+      <edge source="Andrew Scott Waugh" target="Athenaeum Club" id="14" />
+      <edge source="Andrew Smith" target="Athenaeum Club" id="15" />
+      <edge source="Archibald Hamilton" target="Athenaeum Club" id="16" />
+      <edge source="Army &amp; Navy Club" target="T A Blakely" id="17" />
+      <edge source="Army &amp; Navy Club" target="Lindsay Brine" id="18" />
+      <edge source="Army &amp; Navy Club" target="x Freme" id="19" />
+      <edge source="Army &amp; Navy Club" target="John Grover" id="20" />
+      <edge source="Army &amp; Navy Club" target="J Monro" id="21" />
+      <edge source="Arthur Chilver Tupper" target="Athenaeum Club" id="22" />
+      <edge source="Arthur Giles Puller" target="Athenaeum Club" id="23" />
+      <edge source="Arthur Mitchell" target="Royal Societies Club" id="24" />
+      <edge source="Arthur Phayre" target="East India United Services Club" id="25" />
+      <edge source="Arthur Phayre" target="Athenaeum Club" id="26" />
+      <edge source="Arthurs Club" target="John Ussher" id="27" />
+      <edge source="Arts Club" target="William Henry Ashurst" id="28" />
+      <edge source="Arts Club" target="Walter F Dawson" id="29" />
+      <edge source="Arundel Club" target="Sydney L Blanchard" id="30" />
+      <edge source="Arundel Club" target="William H Garrett" id="31" />
+      <edge source="Arundel Club" target="Jennings Holgate" id="32" />
+      <edge source="Arundel Club" target="H  Victor Martin" id="33" />
+      <edge source="Ashton Yates" target="Athenaeum Club" id="34" />
+      <edge source="Athenaeum Club" target="William (1) Adams" id="35" />
+      <edge source="Athenaeum Club" target="Rutherford Alcock" id="36" />
+      <edge source="Athenaeum Club" target="William Amhurst Tyssen Amhurst" id="37" />
+      <edge source="Athenaeum Club" target="William Armstrong" id="38" />
+      <edge source="Athenaeum Club" target="Charles Cardale Babington" id="39" />
+      <edge source="Athenaeum Club" target="Walter ('Badgett') Bagehot" id="40" />
+      <edge source="Athenaeum Club" target="Samuel C Baker" id="41" />
+      <edge source="Athenaeum Club" target="George Balfour" id="42" />
+      <edge source="Athenaeum Club" target="Henry Walter Bellew" id="43" />
+      <edge source="Athenaeum Club" target="John Bennett" id="44" />
+      <edge source="Athenaeum Club" target="Louis Lucien Bonaparte" id="45" />
+      <edge source="Athenaeum Club" target="George Bonham" id="46" />
+      <edge source="Athenaeum Club" target="T  George Bonney" id="47" />
+      <edge source="Athenaeum Club" target="Charles Booth" id="48" />
+      <edge source="Athenaeum Club" target="Beriah Botfield" id="49" />
+      <edge source="Athenaeum Club" target="Sydney Edward Bouverie Bouverie-Pusey" id="50" />
+      <edge source="Athenaeum Club" target="John Bowring" id="51" />
+      <edge source="Athenaeum Club" target="William Boxall" id="52" />
+      <edge source="Athenaeum Club" target="Edward William Brabrook" id="53" />
+      <edge source="Athenaeum Club" target="Charles Holt Bracebridge" id="54" />
+      <edge source="Athenaeum Club" target="John Briggs" id="55" />
+      <edge source="Athenaeum Club" target="Lindsay Brine" id="56" />
+      <edge source="Athenaeum Club" target="Bernard Edward Brodhurst" id="57" />
+      <edge source="Athenaeum Club" target="Benjamin Collins Brodie" id="58" />
+      <edge source="Athenaeum Club" target="James Brooke" id="59" />
+      <edge source="Athenaeum Club" target="W E Buckley" id="60" />
+      <edge source="Athenaeum Club" target="James Wentworth Buller" id="61" />
+      <edge source="Athenaeum Club" target="George Busk" id="62" />
+      <edge source="Athenaeum Club" target="Benjamin Bond Cabbell" id="63" />
+      <edge source="Athenaeum Club" target="George (1) Campbell" id="64" />
+      <edge source="Athenaeum Club" target="Samuel Cartwright" id="65" />
+      <edge source="Athenaeum Club" target="Richard Cavendish" id="66" />
+      <edge source="Athenaeum Club" target="Edwin Chadwick" id="67" />
+      <edge source="Athenaeum Club" target="Charles Harcourt Chambers" id="68" />
+      <edge source="Athenaeum Club" target="Frederick Chatfield" id="69" />
+      <edge source="Athenaeum Club" target="x Clarendon" id="70" />
+      <edge source="Athenaeum Club" target="James Clark" id="71" />
+      <edge source="Athenaeum Club" target="William Aloysius Clavering" id="72" />
+      <edge source="Athenaeum Club" target="William Clay" id="73" />
+      <edge source="Athenaeum Club" target="Vicat Cole" id="74" />
+      <edge source="Athenaeum Club" target="Thomas Edward Colebrooke" id="75" />
+      <edge source="Athenaeum Club" target="x Colonsay" id="76" />
+      <edge source="Athenaeum Club" target="John Conolly" id="77" />
+      <edge source="Athenaeum Club" target="W Coulson" id="78" />
+      <edge source="Athenaeum Club" target="John Crawfurd" id="79" />
+      <edge source="Athenaeum Club" target="Oswald John Crawfurd" id="80" />
+      <edge source="Athenaeum Club" target="Charles Darwin" id="81" />
+      <edge source="Athenaeum Club" target="Erasmus (Ras) Darwin" id="82" />
+      <edge source="Athenaeum Club" target="George Webbe Dasent" id="83" />
+      <edge source="Athenaeum Club" target="William Boyd Dawkins" id="84" />
+      <edge source="Athenaeum Club" target="George Denman" id="85" />
+      <edge source="Athenaeum Club" target="George Dennis" id="86" />
+      <edge source="Athenaeum Club" target="x Devonshire" id="87" />
+      <edge source="Athenaeum Club" target="John jun Dickinson" id="88" />
+      <edge source="Athenaeum Club" target="John Jun Dickinson" id="89" />
+      <edge source="Athenaeum Club" target="John Langdon H Down" id="90" />
+      <edge source="Athenaeum Club" target="Samuel Duckworth" id="91" />
+      <edge source="Athenaeum Club" target="William Duckworth" id="92" />
+      <edge source="Athenaeum Club" target="David Duncan" id="93" />
+      <edge source="Athenaeum Club" target="Peter Martin Duncan" id="94" />
+      <edge source="Athenaeum Club" target="Francis Egerton" id="95" />
+      <edge source="Athenaeum Club" target="Mountstuart Elphinstone" id="96" />
+      <edge source="Athenaeum Club" target="John E Erichsen" id="97" />
+      <edge source="Athenaeum Club" target="William Erle" id="98" />
+      <edge source="Athenaeum Club" target="John Evans" id="99" />
+      <edge source="Athenaeum Club" target="William Fairbairn" id="100" />
+      <edge source="Athenaeum Club" target="Robert Fitzroy" id="101" />
+      <edge source="Athenaeum Club" target="M Foster" id="102" />
+      <edge source="Athenaeum Club" target="Robert Nicholas Fowler" id="103" />
+      <edge source="Athenaeum Club" target="Augustus Wollaston Franks" id="104" />
+      <edge source="Athenaeum Club" target="Douglas Galton" id="105" />
+      <edge source="Athenaeum Club" target="Francis Galton" id="106" />
+      <edge source="Athenaeum Club" target="Thomas B Gascoyne" id="107" />
+      <edge source="Athenaeum Club" target="John Peter Gassiot" id="108" />
+      <edge source="Athenaeum Club" target="Charles Henry Gatty" id="109" />
+      <edge source="Athenaeum Club" target="J  S  Stuart Glennie" id="110" />
+      <edge source="Athenaeum Club" target="John Gould" id="111" />
+      <edge source="Athenaeum Club" target="George Bellas Greenough" id="112" />
+      <edge source="Athenaeum Club" target="William Rathbone Greg" id="113" />
+      <edge source="Athenaeum Club" target="Charles Edward Grey" id="114" />
+      <edge source="Athenaeum Club" target="George Grey" id="115" />
+      <edge source="Athenaeum Club" target="John Grover" id="116" />
+      <edge source="Athenaeum Club" target="William Vernon Guise" id="117" />
+      <edge source="Athenaeum Club" target="John Henry Gurney" id="118" />
+      <edge source="Athenaeum Club" target="Henry Hallam" id="119" />
+      <edge source="Athenaeum Club" target="John E Harvey" id="120" />
+      <edge source="Athenaeum Club" target="James Heywood" id="121" />
+      <edge source="Athenaeum Club" target="Kirkman Daniel Hodgson" id="122" />
+      <edge source="Athenaeum Club" target="Joseph Hooker" id="123" />
+      <edge source="Athenaeum Club" target="x Houghton" id="124" />
+      <edge source="Athenaeum Club" target="Henry Hoyle Howorth" id="125" />
+      <edge source="Athenaeum Club" target="Thomas McKenny Hughes" id="126" />
+      <edge source="Athenaeum Club" target="William Wilson Hunter" id="127" />
+      <edge source="Athenaeum Club" target="Thomas Henry Huxley" id="128" />
+      <edge source="Athenaeum Club" target="Henry (the son) Jackson" id="129" />
+      <edge source="Athenaeum Club" target="William Jardine" id="130" />
+      <edge source="Athenaeum Club" target="J  Beete Jukes" id="131" />
+      <edge source="Athenaeum Club" target="Augustus Henry Lane Fox later Pitt Rivers" id="132" />
+      <edge source="Athenaeum Club" target="Robert Gordon Latham" id="133" />
+      <edge source="Athenaeum Club" target="Edward (1) Lawrence" id="134" />
+      <edge source="Athenaeum Club" target="William Lawrence" id="135" />
+      <edge source="Athenaeum Club" target="Austen Henry Layard" id="136" />
+      <edge source="Athenaeum Club" target="John Lee (2)" id="137" />
+      <edge source="Athenaeum Club" target="x Lefroy" id="138" />
+      <edge source="Athenaeum Club" target="Joseph Lister" id="139" />
+      <edge source="Athenaeum Club" target="Robert Liveing" id="140" />
+      <edge source="Athenaeum Club" target="Joseph Norman Lockyer" id="141" />
+      <edge source="Athenaeum Club" target="William Longman" id="142" />
+      <edge source="Athenaeum Club" target="John Lubbock" id="143" />
+      <edge source="Athenaeum Club" target="Charles Lyell" id="144" />
+      <edge source="Athenaeum Club" target="George Macleay" id="145" />
+      <edge source="Athenaeum Club" target="Charles Malcolm" id="146" />
+      <edge source="Athenaeum Club" target="Clements Robert Markham" id="147" />
+      <edge source="Athenaeum Club" target="Matthew Henry Marsh" id="148" />
+      <edge source="Athenaeum Club" target="Richard Biddulph Martin" id="149" />
+      <edge source="Athenaeum Club" target="Henry Matthews" id="150" />
+      <edge source="Athenaeum Club" target="Peter Benson Maxwell" id="151" />
+      <edge source="Athenaeum Club" target="John Frederick McNair" id="152" />
+      <edge source="Athenaeum Club" target="Thomas Taylor Meadows" id="153" />
+      <edge source="Athenaeum Club" target="Edward Meryon" id="154" />
+      <edge source="Athenaeum Club" target="Frederick Butler Montgomerie" id="155" />
+      <edge source="Athenaeum Club" target="James Cotter Morison" id="156" />
+      <edge source="Athenaeum Club" target="J Muir" id="157" />
+      <edge source="Athenaeum Club" target="Roderick Impey Murchison" id="158" />
+      <edge source="Athenaeum Club" target="John Murray" id="159" />
+      <edge source="Athenaeum Club" target="Charles Nicholson" id="160" />
+      <edge source="Athenaeum Club" target="J  Dyce Nicol" id="161" />
+      <edge source="Athenaeum Club" target="Laurence Oliphant" id="162" />
+      <edge source="Athenaeum Club" target="William M Ord" id="163" />
+      <edge source="Athenaeum Club" target="Sherard Osborn" id="164" />
+      <edge source="Athenaeum Club" target="Frederick Ouvry" id="165" />
+      <edge source="Athenaeum Club" target="Richard Owen" id="166" />
+      <edge source="Athenaeum Club" target="Harry Parkes" id="167" />
+      <edge source="Athenaeum Club" target="C H Pearson" id="168" />
+      <edge source="Athenaeum Club" target="Erskine Perry" id="169" />
+      <edge source="Athenaeum Club" target="Joseph Prestwich" id="170" />
+      <edge source="Athenaeum Club" target="John Ramsay" id="171" />
+      <edge source="Athenaeum Club" target="Charles Ratcliff" id="172" />
+      <edge source="Athenaeum Club" target="Henry Rawlinson" id="173" />
+      <edge source="Athenaeum Club" target="Lestock Robert Reid" id="174" />
+      <edge source="Athenaeum Club" target="Francis Ignatio Rickard" id="175" />
+      <edge source="Athenaeum Club" target="x Ripon, De Grey and" id="176" />
+      <edge source="Athenaeum Club" target="Daniel Brooke Robertson" id="177" />
+      <edge source="Athenaeum Club" target="George Rolleston" id="178" />
+      <edge source="Athenaeum Club" target="Richard Wellesley Rothman" id="179" />
+      <edge source="Athenaeum Club" target="Edward Ryan" id="180" />
+      <edge source="Athenaeum Club" target="David Salomons" id="181" />
+      <edge source="Athenaeum Club" target="Humfrey Sandwith" id="182" />
+      <edge source="Athenaeum Club" target="Henry Danby Seymour" id="183" />
+      <edge source="Athenaeum Club" target="Justin Shiel" id="184" />
+      <edge source="Athenaeum Club" target="James Kay Shuttleworth" id="185" />
+      <edge source="Athenaeum Club" target="Samuel Reynolds Solly" id="186" />
+      <edge source="Athenaeum Club" target="William Spottiswoode" id="187" />
+      <edge source="Athenaeum Club" target="Spencer St John" id="188" />
+      <edge source="Athenaeum Club" target="x Strangford" id="189" />
+      <edge source="Athenaeum Club" target="x Stuart" id="190" />
+      <edge source="Athenaeum Club" target="J J Sylvester" id="191" />
+      <edge source="Athenaeum Club" target="Robert Tait" id="192" />
+      <edge source="Athenaeum Club" target="James Talbot de Malahide" id="193" />
+      <edge source="Athenaeum Club" target="John George Taylor" id="194" />
+      <edge source="Athenaeum Club" target="Richard Temple" id="195" />
+      <edge source="Athenaeum Club" target="James Emerson Tennent" id="196" />
+      <edge source="Athenaeum Club" target="Connop Thirlwall" id="197" />
+      <edge source="Athenaeum Club" target="Edward Thurlow" id="198" />
+      <edge source="Athenaeum Club" target="William Tooke" id="199" />
+      <edge source="Athenaeum Club" target="William Sandys Wright Vaux" id="200" />
+      <edge source="Athenaeum Club" target="Thomas Francis Wade" id="201" />
+      <edge source="Athenaeum Club" target="James Walker" id="202" />
+      <edge source="Athenaeum Club" target="Stephen Henry Ward" id="203" />
+      <edge source="Athenaeum Club" target="S W D Williams" id="204" />
+      <edge source="Athenaeum Club" target="Henry Drummond Wolff" id="205" />
+      <edge source="Augustus Goldsmid" target="Junior Carlton Club" id="206" />
+      <edge source="Augustus Goldsmid" target="Conservative Club" id="207" />
+      <edge source="Augustus Henry Lane Fox later Pitt Rivers" target="Guards Club" id="208" />
+      <edge source="Bath and County Club" target="Robert Sidney Stone" id="209" />
+      <edge source="Berwickshire Naturalists Field Club" target="George Tate" id="210" />
+      <edge source="Brasenose Club" target="Frederick Augustus Haserick" id="211" />
+      <edge source="Brookes Club" target="x Ripon, De Grey and" id="212" />
+      <edge source="Brookes Club" target="John Tennant" id="213" />
+      <edge source="Cannibal Club" target="Hugh J C Beavan" id="214" />
+      <edge source="Cannibal Club" target="Edward Bellamy" id="215" />
+      <edge source="Cannibal Club" target="Thomas Bendyshe" id="216" />
+      <edge source="Cannibal Club" target="Charles Duncan Cameron" id="217" />
+      <edge source="Cannibal Club" target="John Frederick Collingwood" id="218" />
+      <edge source="Cannibal Club" target="S  Edwin Collingwood" id="219" />
+      <edge source="Cannibal Club" target="Dunbar Isidore Heath" id="220" />
+      <edge source="Cannibal Club" target="John Mason Hepworth" id="221" />
+      <edge source="Cannibal Club" target="x Houghton" id="222" />
+      <edge source="Cannibal Club" target="James Hunt" id="223" />
+      <edge source="Cannibal Club" target="Kenneth Robert Henderson Mackenzie" id="224" />
+      <edge source="Cannibal Club" target="Luke Owen Pike" id="225" />
+      <edge source="Cannibal Club" target="Edouard J Villin" id="226" />
+      <edge source="Cannibal Club" target="William Henry Wesley" id="227" />
+      <edge source="Carlton Club" target="William Amhurst Tyssen Amhurst" id="228" />
+      <edge source="Carlton Club" target="Henry Hoyle Howorth" id="229" />
+      <edge source="Carlton Club" target="John Benn Ormathwaite" id="230" />
+      <edge source="Carlton Club" target="William Smith Windham" id="231" />
+      <edge source="Charles Bennett" target="Thatched House Club" id="232" />
+      <edge source="Charles Jeremiah Renshaw" target="Royal Societies Club" id="233" />
+      <edge source="Charles Pyndar Beauchamp Walker" target="United Service Club" id="234" />
+      <edge source="Charles Reade" target="Garrick Club" id="235" />
+      <edge source="Clements Robert Markham" target="Oriental Club" id="236" />
+      <edge source="Colquehoun Club" target="Edward William Brabrook" id="237" />
+      <edge source="Conservative Club" target="Edward Barrett Hodges Curteis" id="238" />
+      <edge source="Conservative Club" target="Frederick Butler Montgomerie" id="239" />
+      <edge source="Conservative Club" target="G C Rankin" id="240" />
+      <edge source="Conservative Club" target="William Winwood Reade" id="241" />
+      <edge source="Conservative Club" target="Francis Ignatio Rickard" id="242" />
+      <edge source="East India Club" target="Thomas Prendergast" id="243" />
+      <edge source="East India United Services Club" target="Le Grand Jacob" id="244" />
+      <edge source="Edward Bellamy" target="Nationalist Club" id="245" />
+      <edge source="Edward Charlesworth" target="Whittington Club" id="246" />
+      <edge source="Essex Field Club" target="William White La Barte" id="247" />
+      <edge source="Essex Field Club" target="Frederick William Rudler" id="248" />
+      <edge source="F H Janson" target="West Kent Cricket Club" id="249" />
+      <edge source="Frederick A B Crawfurd" target="United Service Club" id="250" />
+      <edge source="Frederick Augustus Haserick" target="Manchester Club" id="251" />
+      <edge source="Frederick Whittock Darby" target="New Reform Club" id="252" />
+      <edge source="Garrick Club" target="Oswald John Crawfurd" id="253" />
+      <edge source="George H Pope" target="New University Club" id="254" />
+      <edge source="George Peacocke" target="Naval and Military Club" id="255" />
+      <edge source="George William Marshall" target="New University Club" id="256" />
+      <edge source="Grafton Club" target="Hugh J C Beavan" id="257" />
+      <edge source="Grafton Club" target="Hugh R Semper" id="258" />
+      <edge source="Guards Club" target="John Stanley" id="259" />
+      <edge source="Gustav Oppert" target="Madras Club, Madras" id="260" />
+      <edge source="H G Gridley" target="Oriental Club" id="261" />
+      <edge source="H K Twyford" target="Junior United Service Club" id="262" />
+      <edge source="Harry Parkes" target="Oriental Club" id="263" />
+      <edge source="Henry Danby Seymour" target="Traveller's Club" id="264" />
+      <edge source="Henry F Mills" target="Thatched House Club" id="265" />
+      <edge source="Henry Reginald Moore" target="Junior Garrick Club" id="266" />
+      <edge source="Hugh J C Beavan" target="Junior Carlton Club" id="267" />
+      <edge source="Indian Club" target="Richard Temple" id="268" />
+      <edge source="J  Charlton Parr" target="Junior Carlton Club" id="269" />
+      <edge source="James Bain" target="Junior Carlton Club" id="270" />
+      <edge source="James Brebner" target="Spalding Club" id="271" />
+      <edge source="James Whishaw" target="Oriental Club" id="272" />
+      <edge source="John (1) Cleghorn" target="Union Club" id="273" />
+      <edge source="John Briggs" target="Oriental Club" id="274" />
+      <edge source="John Fletcher Owen" target="Junior United Service Club" id="275" />
+      <edge source="John Frederick Collingwood" target="New Athenaeum Club" id="276" />
+      <edge source="John Frederick Collingwood" target="Science Club" id="277" />
+      <edge source="John Gardiner" target="Reform Club" id="278" />
+      <edge source="John Henry Challis" target="Reform Club" id="279" />
+      <edge source="John Lubbock" target="X Club" id="280" />
+      <edge source="John Marmaduke Stourton" target="Junior Athenaeum Club" id="281" />
+      <edge source="John Ramsay" target="Wyndham Club" id="282" />
+      <edge source="John S Mayson" target="Union Club" id="283" />
+      <edge source="Joseph Hooker" target="X Club" id="284" />
+      <edge source="Junior Athenaeum Club" target="Richard Edward Arden" id="285" />
+      <edge source="Junior Carlton Club" target="William Henry Mitchell" id="286" />
+      <edge source="Junior Carlton Club" target="Robert Sidney Stone" id="287" />
+      <edge source="Luke Owen Pike" target="New University Club" id="288" />
+      <edge source="Luke Smyth O'Connor" target="Union Club" id="289" />
+      <edge source="Luke Smyth O'Connor" target="United Service Club" id="290" />
+      <edge source="Manchester Literary Club" target="W  Walbank Sanderson" id="291" />
+      <edge source="Marlborough Club" target="William Amhurst Tyssen Amhurst" id="292" />
+      <edge source="National Club" target="Richard Edward Arden" id="293" />
+      <edge source="New Athenaeum Club" target="Thomas Squire Barrett" id="294" />
+      <edge source="New Club, Edinburgh" target="x Colonsay" id="295" />
+      <edge source="New Spalding Club" target="Walter Gregor" id="296" />
+      <edge source="New University Club" target="William Abraham Bell" id="297" />
+      <edge source="New University Club" target="William Stephen Mitchell" id="298" />
+      <edge source="Newbury and District Field Club" target="Silas Palmer" id="299" />
+      <edge source="Oriental Club" target="William Arbuthnot" id="300" />
+      <edge source="Oriental Club" target="Rowland Hamilton" id="301" />
+      <edge source="Oriental Club" target="W H Read" id="302" />
+      <edge source="Oriental Club" target="S F Simonson" id="303" />
+      <edge source="Oriental Club" target="Richard Temple" id="304" />
+      <edge source="Oswald John Crawfurd" target="Sesame Club" id="305" />
+      <edge source="P B Brodie" target="Woolhope Naturalists Field Club" id="306" />
+      <edge source="P O'Callaghan" target="Tennis Court Club, Leamington" id="307" />
+      <edge source="Ranelagh Club" target="Richard Biddulph Martin" id="308" />
+      <edge source="Reform Club" target="William Henry Ashurst" id="309" />
+      <edge source="Reform Club" target="Robert Crawford" id="310" />
+      <edge source="Reform Club" target="Thomas Josiah Laing" id="311" />
+      <edge source="Richard Biddulph Martin" target="Wyndham Club" id="312" />
+      <edge source="Robert Sidney Stone" target="Royal Albert Yacht Club" id="313" />
+      <edge source="Royal Societies Club" target="William Elphinstone Malcolm" id="314" />
+      <edge source="Royal Victoria Yacht Club" target="T A Blakely" id="315" />
+      <edge source="Sugar Club" target="x Brown-Sequard" id="316" />
+      <edge source="Thomas Henry Huxley" target="X Club" id="317" />
+      <edge source="Traveller's Club" target="x Ripon, De Grey and" id="318" />
+      <edge source="United University Club" target="William Ewart" id="319" />
+      <edge source="United University Club" target="Walter Morrison" id="320" />
+      <edge source="William Spottiswoode" target="X Club" id="321" />
+      <edge source="Wyndham Club" target="x Richards" id="322" />
+    </edges>
+  </graph>
+</gexf>
